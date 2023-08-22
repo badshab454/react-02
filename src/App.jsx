@@ -1,5 +1,8 @@
+import Navigation from '../src/components/Navigation.jsx';
+
+
 const App = () => {
-  return <h2>Hello Coder</h2>;
+  return <Navigation />;
 }
 
 export default App;
