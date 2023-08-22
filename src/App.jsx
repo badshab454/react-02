@@ -1,3 +1,5 @@
+import "./App.css";
+
 import Navigation from '../src/components/Navigation.jsx';
 
 
